@@ -14,9 +14,6 @@ This blog is an exercise in HTML and CSS._
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _Open a simple HTTP server in the top level of the clone directory. For a MAC, run the following commmand in your terminal: 
-python -m SimpleHTTPServer_
-* _Then open your web browser of choice to localhost:8000_
 
 ## Technologies Used
 
@@ -25,6 +22,6 @@ python -m SimpleHTTPServer_
 
 ### License
 
-*This software is licensed under the MIT license.*
+*Licensed under the MIT license.*
 
 Copyright (c) 2020 **_Keala Young_**
